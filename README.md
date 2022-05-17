@@ -1,0 +1,1 @@
+# insurance_analysis This project is intended to take in a csv file of insurance data using the python csv library and use dictionaries to hold the data. Basic attributes of the data are determined based on these importde dictionaries.
